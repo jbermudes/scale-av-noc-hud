@@ -1,0 +1,9 @@
+= SCALE A/V NOC HUD
+Jess Bermudes <jbermudes@gmail.com>
+
+A collection of simple webpages to be used to create a HUD for
+the SCALE A/V Team NOC
+
+SCALE is the Southern California Linux Expo.
+For more information, visit the https://socallinuxexpo.org[SCALE website]
+
